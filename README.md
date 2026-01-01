@@ -4,14 +4,21 @@ Welcome to the Amazon Test Cases Repository! This repository is dedicated to doc
 "https://www.amazon.in/ref=nav_logo"
 
 Table of Contents
+
+
 Overview
 Test Case Categories
 File Structure
 License
 Overview
+
+
+
 This repository serves as a central hub for storing and maintaining test cases that cover different scenarios within the Amazon platform. The goal is to provide a comprehensive set of test cases that can be used for testing and quality assurance purposes.
 
 Test Case Categories
+
+
 Login Page
 Account Registration Page
 Feel free to explore each category for detailed test cases and scenarios.
