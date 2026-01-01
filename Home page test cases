@@ -1,0 +1,35 @@
+Home Page Test Cases
+
+Link: https://www.amazon.in/
+
+Verify Amazon home page loads successfully
+
+Verify Amazon logo is visible and clickable
+
+Verify page title contains “Amazon”
+
+Verify location (Deliver to) option works
+
+Verify language selector works
+
+Verify navigation menu opens (All ☰)
+
+Verify footer links load correctly
+
+Login Test Cases
+
+Login with valid email & password
+
+Login with invalid password
+
+Login with invalid email
+
+Login with empty fields
+
+Verify error messages
+
+Verify “Forgot Password” link
+
+Verify OTP login (if enabled)
+
+Verify session timeout behavior
