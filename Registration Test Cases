@@ -1,0 +1,207 @@
+Registration Test Cases
+
+Link: https://www.amazon.in/ap/register
+
+Register with valid details
+
+Register with existing email
+
+Register with invalid mobile/email
+
+Password validation check
+
+OTP verification
+
+Mandatory field validation
+
+Search Functionality Test Cases
+
+Link: https://www.amazon.in/
+
+Search with valid product name
+
+Search with partial keyword
+
+Search with special characters
+
+Search with blank input
+
+Verify autosuggestions
+
+Verify no-result message
+
+Verify spelling correction
+
+5️⃣ Product Listing Page (PLP) Test Cases
+
+Link Example: https://www.amazon.in/s?k=mobile
+
+Verify product list loads
+
+Verify product image visibility
+
+Verify price, rating, reviews
+
+Verify pagination / infinite scroll
+
+Verify filters (brand, price, rating)
+
+Verify sorting (price low to high)
+
+6️⃣ Product Detail Page (PDP) Test Cases
+
+Link Example: https://www.amazon.in/dp/B0CXXXXXXX
+
+Verify product title
+
+Verify price & discount
+
+Verify product images zoom
+
+Verify description & specifications
+
+Verify seller details
+
+Verify customer reviews
+
+Verify availability status
+
+7️⃣ Add to Cart Test Cases
+
+Link: Product Detail Page
+
+Add product to cart
+
+Add multiple quantities
+
+Remove product from cart
+
+Update quantity
+
+Verify cart count
+
+Verify cart price calculation
+
+8️⃣ Cart Page Test Cases
+
+Link: https://www.amazon.in/gp/cart/view.html
+
+Verify cart page loads
+
+Verify item details
+
+Verify price breakup
+
+Verify save for later
+
+Verify delete item
+
+Verify proceed to buy button
+
+9️⃣ Checkout Test Cases
+
+Link: https://www.amazon.in/gp/buy/spc/handlers/display.html
+
+Checkout with valid address
+
+Add new address
+
+Edit address
+
+Invalid pin code validation
+
+Delivery date availability
+
+Order summary verification
+
+🔟 Payment Test Cases
+
+Link: Checkout Page
+
+Payment via UPI
+
+Payment via Debit Card
+
+Payment via Credit Card
+
+Payment via Net Banking
+
+Payment failure scenario
+
+Cancel payment flow
+
+1️⃣1️⃣ Order Confirmation Test Cases
+
+Link: https://www.amazon.in/gp/your-account/order-history
+
+Verify order confirmation page
+
+Verify order ID generation
+
+Verify email/SMS notification
+
+Verify invoice generation
+
+1️⃣2️⃣ Order History Test Cases
+
+Link: https://www.amazon.in/gp/your-account/order-history
+
+View previous orders
+
+Filter orders by date
+
+View order details
+
+Download invoice
+
+1️⃣3️⃣ Cancel / Return Test Cases
+
+Link: Order Details Page
+
+Cancel order before shipping
+
+Return delivered product
+
+Refund initiation
+
+Refund status tracking
+
+1️⃣4️⃣ Wishlist Test Cases
+
+Link: https://www.amazon.in/hz/wishlist
+
+Add product to wishlist
+
+Remove product
+
+Move item to cart
+
+Share wishlist
+
+1️⃣5️⃣ Profile & Account Test Cases
+
+Link: https://www.amazon.in/gp/css/homepage.html
+
+Update profile info
+
+Change password
+
+Manage addresses
+
+Manage payment methods
+
+Logout functionality
+
+1️⃣6️⃣ Security & Performance Test Cases
+
+Verify HTTPS enabled
+
+Session handling after logout
+
+Password encryption
+
+Page load performance
+
+Cross-browser testing
+
+Mobile responsiveness
