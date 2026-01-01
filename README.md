@@ -37,4 +37,4 @@ Feel free to explore each category for detailed test cases and scenarios.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Rohit kumar].
